@@ -29,4 +29,5 @@ fun main() {
     var formacao = Formacao("Kotlin", listaConteudos)
     formacao.matricular(usuario1)
     println(formacao)
+    var notas: List<Double>
 }
